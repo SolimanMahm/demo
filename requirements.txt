@@ -1,5 +1,7 @@
 flask
 transformers
+PyTorch
+TensorFlow 
 gunicorn==20.0.4
 Jinja2==2.11.3
 Werkzeug===1.0.1
