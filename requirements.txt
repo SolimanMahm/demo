@@ -1,6 +1,5 @@
 flask
 transformers
-pytorch
 tensorflow 
 gunicorn==20.0.4
 Jinja2==2.11.3
