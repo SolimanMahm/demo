@@ -19,4 +19,4 @@ def predict():
     return render_template('index.html',prediction_text=AnsweringQuestions(int_features[1],int_features[0]))
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0",port=5000)
